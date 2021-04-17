@@ -1,0 +1,9 @@
+training_type: vanilla
+attack_type: lots
+template_size: 50
+p: inf
+eps: none
+nb_iter: 500
+step_size: 0.02
+additional_stopping_criterion: success
+append: true

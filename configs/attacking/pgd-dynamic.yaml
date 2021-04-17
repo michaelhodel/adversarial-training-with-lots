@@ -1,0 +1,8 @@
+training_type: dynamic
+attack_type: pgd
+p: inf
+eps: 0.3
+nb_iter: 10
+step_size: 0.075
+max_fosc: 0.5
+append: false

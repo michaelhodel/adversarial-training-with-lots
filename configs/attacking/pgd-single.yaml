@@ -1,0 +1,7 @@
+training_type: vanilla
+attack_type: pgd
+p: inf
+eps: 0.3
+nb_iter: 1
+step_size: 0.25
+append: true

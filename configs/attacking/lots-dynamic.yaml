@@ -1,0 +1,9 @@
+training_type: dynamic
+attack_type: lots
+template_size: 50
+p: inf
+eps: 0.3
+nb_iter: 10
+step_size: 0.15
+max_fosc: 0.5
+append: false
